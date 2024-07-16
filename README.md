@@ -1,4 +1,4 @@
-![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+![MasterHead](https://wallpapers-clan.com/wp-content/uploads/2024/03/batman-blue-glowing-eyes-dark-gif-preview-desktop-wallpaper.gif)
 <h1 align="center">Hi 👋, I'm Inura Perera</h1>
 <h3 align="center">DevOps Engineering Enthusiast from Sri Lanka</h3>
 
