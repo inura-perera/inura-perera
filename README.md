@@ -26,6 +26,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inura-perera&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="inura-perera" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inura-perera&show_icons=true&locale=en" alt="inura-perera" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inura-perera&show_icons=true&locale=en&cache_seconds=1800" alt="inura-perera" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inura-perera&" alt="inura-perera" /></p>
