@@ -1,12 +1,12 @@
 ![MasterHead](https://wallpapers-clan.com/wp-content/uploads/2024/03/batman-blue-glowing-eyes-dark-gif-preview-desktop-wallpaper.gif)
 <h1 align="center">Hi 👋, I'm Inura Perera</h1>
-<h3 align="center">DevOps Engineering Enthusiast from Sri Lanka</h3>
+<h3 align="center">Intern Cloud Engineer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=inura-perera&label=Profile%20views&color=0e75b6&style=flat" alt="inura-perera" /> </p>
 
 <p align="center"> <a href="https://twitter.com/inuraperera2000" target="blank"><img src="https://img.shields.io/twitter/follow/inuraperera2000?logo=twitter&style=for-the-badge" alt="inuraperera2000" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [inuraperera.me](inuraperera.me)
 
